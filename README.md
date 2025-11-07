@@ -1,3 +1,4 @@
+![logo](https://github.com/saeeraokar/saeeraokar/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Saee Raokar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
